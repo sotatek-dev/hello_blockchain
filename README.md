@@ -9,8 +9,8 @@
 
 # For supporting environment developers
 - Can setup full node for a coin: bitcoin, dash, eth, ...
-  - Config 
-  - 
+  - Create config file and run a full node
+  - Run node as system daemon, auto start with OS
 - Can query blockchain data from full nodes setup above: get account balance, block info, transaction info
   - By CLI 
   - By RPC API 
